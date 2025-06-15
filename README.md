@@ -70,6 +70,7 @@ A professional startup landing page showcasing "The Future of Inventory Manageme
 - Cost: ~$0 (Free Tier)
 
 ## 🖼 Screenshot
+<img width="1439" alt="Screenshot 2025-06-15 at 12 13 33 PM" src="https://github.com/user-attachments/assets/76481179-aec5-40ae-b0b0-8ac0f5ccc7d1" />
 
 
 ## 🔗 Links
