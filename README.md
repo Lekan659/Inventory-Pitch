@@ -1,7 +1,7 @@
 # Startup Web Application Deployment on AWS EC2
 
 ## 🚀 Project Overview
-A professional startup landing page showcasing "The Future of AI-Powered Logistics" deployed on AWS EC2 with enterprise-grade configuration.
+A professional startup landing page showcasing "The Future of Inventory Management" deployed on AWS EC2 with enterprise-grade configuration.
 
 **Live Demo:** https://toastreal.work.gd
  or http://34.245.97.141/
@@ -13,7 +13,7 @@ A professional startup landing page showcasing "The Future of AI-Powered Logisti
 - **Web Server:** Nginx
 - **Frontend:** React, Tailwind CSS, Vanilla JavaScript
 - **Security:** UFW Firewall, Security Groups
-- **SSL:** Let's Encrypt (Certbot) - Optional
+- **SSL:** Let's Encrypt (Certbot)
 
 ## 📋 Deployment Steps
 
@@ -77,8 +77,3 @@ A professional startup landing page showcasing "The Future of AI-Powered Logisti
 - **AWS Console:** https://console.aws.amazon.com/ec2/
 - **Repository:** https://github.com/Lekan659/Inventory-Pitch.git
 
-## 💰 Cost Breakdown
-- **EC2 t2.micro:** $0/month (Free Tier)
-- **Data Transfer:** $0.09/GB (first 1GB free)
-- **Storage:** $0.10/GB-month
-- **Estimated Monthly Cost:** <$5
